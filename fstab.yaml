@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/NadaGhram/testFront/
+    url: https://content.da.live/decade-fr/decade-sandbox-optimizer/
     type: markup
 
 folders:
